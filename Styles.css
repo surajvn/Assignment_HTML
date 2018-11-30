@@ -1,8 +1,10 @@
 .table {
-    background:rgb(17, 187, 102);
+    background:rgb(182, 184, 183);
     margin-top: 50px;
-    border-style: dashed;
-    border-width: 3px;
-    border-color: antiquewhite;
 
+
+}
+
+.gap{
+    margin-top: 50px;
 }
