@@ -11,4 +11,16 @@
 
 #formbg{
     background-color: #EFEFEF;
+
 }
+.bg{ 
+    background-image: url("Image_back.jpg");
+    height: 100vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    background-color: rgb(114, 225, 231);
+    }
